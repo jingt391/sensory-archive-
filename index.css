@@ -1,0 +1,377 @@
+.div {
+    width: 115px;
+    position: relative;
+    letter-spacing: -0.05em;
+    line-height: 145px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 392px;
+    flex-shrink: 0;
+}
+.p {
+    margin: 0;
+}
+.txt {
+    line-break: anywhere;
+    width: 100%;
+}
+.div2 {
+    width: 115px;
+    position: relative;
+    letter-spacing: -0.05em;
+    line-height: 145px;
+    display: flex;
+    align-items: center;
+    height: 392px;
+    flex-shrink: 0;
+}
+.parent {
+    width: 252px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 88px 22px;
+}
+.sensory-archive-inner {
+    position: absolute;
+    top: 945px;
+    left: 724px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+    font-size: 100px;
+    font-family: Khmer;
+}
+.sensory-archive1 {
+    position: relative;
+    line-height: 64px;
+}
+.sensory-archive-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.sensory-archive-child {
+    position: absolute;
+    top: 448px;
+    left: 0px;
+    width: 1668px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 230px;
+}
+.explore {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 64px;
+    display: inline-block;
+    width: 99px;
+    height: 56px;
+}
+.about {
+    position: absolute;
+    top: 48px;
+    left: 2px;
+    line-height: 64px;
+    display: inline-block;
+    width: 99px;
+    height: 56px;
+}
+.sensories {
+    position: absolute;
+    top: 98px;
+    left: 2px;
+    line-height: 64px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 151px;
+    height: 56px;
+}
+.explore-parent {
+    width: 153px;
+    position: relative;
+    height: 154px;
+}
+.sensory-archive-exploring {
+    width: 552px;
+    position: relative;
+    line-height: 64px;
+    white-space: pre-wrap;
+    text-align: center;
+    display: inline-block;
+    height: 56px;
+    flex-shrink: 0;
+}
+.group-parent {
+    position: absolute;
+    top: 14px;
+    left: 60px;
+    width: 1626px;
+    display: none;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-align: left;
+}
+.selection {
+    width: 158px;
+    position: relative;
+    letter-spacing: -0.05em;
+    line-height: 145px;
+    display: inline-block;
+    height: 120px;
+    flex-shrink: 0;
+}
+.year {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: -0.05em;
+    line-height: 145px;
+    display: inline-block;
+    width: 115px;
+    height: 120px;
+}
+.month {
+    position: absolute;
+    top: 0px;
+    left: 135px;
+    letter-spacing: -0.05em;
+    line-height: 145px;
+    display: inline-block;
+    width: 116px;
+    height: 120px;
+}
+.day {
+    position: absolute;
+    top: 0px;
+    left: 271px;
+    letter-spacing: -0.05em;
+    line-height: 145px;
+    display: inline-block;
+    width: 116px;
+    height: 120px;
+}
+.year-parent {
+    width: 387px;
+    position: relative;
+    height: 120px;
+}
+.selection-group {
+    position: absolute;
+    top: 736px;
+    left: 580px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 36px;
+}
+.grad-group-icon {
+    width: 388px;
+    position: relative;
+    height: 384px;
+    object-fit: cover;
+
+}
+.cello-group {
+    width: 387px;
+    position: relative;
+    height: 400px;
+    object-fit: cover;
+    max-width: 80%;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 387px;
+    height: 389px;
+    object-fit: cover;
+}
+.group-wrapper {
+    width: 387px;
+    position: relative;
+    height: 389px;
+}
+.flower-1-icon {
+    align-self: stretch;
+    position: relative;
+    max-width: 80%;
+    overflow: hidden;
+    height: 381px;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.phone-1-icon {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 392px;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.frame-child {
+    width: 387px;
+    position: relative;
+    height: 392px;
+    object-fit: cover;
+}
+.frame-item {
+    width: 387px;
+    position: relative;
+    height: 387px;
+    object-fit: cover;
+}
+.teddy-1-icon {
+    align-self: stretch;
+    position: relative;
+    max-width: 80%;
+    overflow: hidden;
+    height: 384px;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.grad-group-parent {
+    position: absolute;
+    top: 912px;
+    left: 1000px;
+    width: 389px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 100px;
+}
+.ring-1-icon {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 387px;
+    flex-shrink: 0;
+    object-fit: cover;
+    cursor: pointer;
+}
+.stilllife-1-icon {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 389px;
+    flex-shrink: 0;
+    object-fit: cover;
+    cursor: pointer;
+}
+.dog-1-icon {
+    width: 353px;
+    position: relative;
+    height: 389px;
+    object-fit: cover;
+}
+.book-1-icon {
+    width: 366px;
+    position: relative;
+    height: 398px;
+    object-fit: cover;
+}
+.ballet-1-icon {
+    width: 263px;
+    position: relative;
+    height: 438px;
+    object-fit: cover;
+}
+.ring-1-parent {
+    position: absolute;
+    top: 960px;
+    left: 331px;
+    width: 387px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 83px;
+}
+.explore1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 114px;
+    height: 56px;
+}
+.about1 {
+    position: absolute;
+    top: 0px;
+    left: 136px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 115px;
+    height: 56px;
+    cursor: pointer;
+}
+.sensories1 {
+    position: absolute;
+    top: 0px;
+    left: 251px;
+    line-height: 64px;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 151px;
+    height: 56px;
+}
+.explore-group {
+    width: 402px;
+    position: relative;
+    height: 56px;
+}
+.sensory-archive-exploring1 {
+    width: 552px;
+    position: relative;
+    line-height: 64px;
+    white-space: pre-wrap;
+    display: inline-block;
+    height: 56px;
+    flex-shrink: 0;
+}
+.group-container {
+    position: absolute;
+    top: 16px;
+    left: 60px;
+    width: 1626px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Anybody;
+}
+.sensory-archive {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 6634px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 24px;
+    color: #000;
+    font-family: Barlow;
+}
+
