@@ -177,7 +177,7 @@
     justify-content: flex-start;
     font-size: 36px;
 }
-.grad-group-icon {
+.H_grad_group {
     width: 388px;
     position: relative;
     height: 384px;
@@ -191,7 +191,7 @@
     object-fit: cover;
     max-width: 80%;
 }
-.group-child {
+.skate-group {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -204,7 +204,7 @@
     position: relative;
     height: 389px;
 }
-.flower-1-icon {
+.flower-group {
     align-self: stretch;
     position: relative;
     max-width: 80%;
@@ -213,7 +213,7 @@
     flex-shrink: 0;
     object-fit: cover;
 }
-.phone-1-icon {
+.phone-group {
     align-self: stretch;
     position: relative;
     max-width: 100%;
@@ -222,19 +222,19 @@
     flex-shrink: 0;
     object-fit: cover;
 }
-.frame-child {
+.k-grad-group {
     width: 387px;
     position: relative;
     height: 392px;
     object-fit: cover;
 }
-.frame-item {
+.piano-group {
     width: 387px;
     position: relative;
     height: 387px;
     object-fit: cover;
 }
-.teddy-1-icon {
+.teddy-group {
     align-self: stretch;
     position: relative;
     max-width: 80%;
@@ -254,7 +254,7 @@
     justify-content: flex-start;
     gap: 100px;
 }
-.ring-1-icon {
+.ring-group {
     align-self: stretch;
     position: relative;
     max-width: 100%;
@@ -264,7 +264,7 @@
     object-fit: cover;
     cursor: pointer;
 }
-.stilllife-1-icon {
+.stilllife-group {
     align-self: stretch;
     position: relative;
     max-width: 100%;
@@ -274,23 +274,57 @@
     object-fit: cover;
     cursor: pointer;
 }
-.dog-1-icon {
+.pacifier-group{
+    align-self: normal;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 389px;
+    flex-shrink: 0;
+    object-fit: cover;
+    cursor: pointer;
+}
+.pandent-group {
+    align-self:normal;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 389px;
+    flex-shrink: 0;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.dog-group {
     width: 353px;
     position: relative;
     height: 389px;
     object-fit: cover;
 }
-.book-1-icon {
-    width: 366px;
+.book-group {
+    align-self:normal;
+    width: 300px;
     position: relative;
     height: 398px;
     object-fit: cover;
 }
-.ballet-1-icon {
+.ballet-group {
     width: 263px;
     position: relative;
     height: 438px;
     object-fit: cover;
+
+}
+.ballon-group{
+    align-self:normal;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 389px;
+    flex-shrink: 0;
+    object-fit: cover;
+    cursor: pointer;
+    margin-top: 2px;
 }
 .ring-1-parent {
     position: absolute;

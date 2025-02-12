@@ -1,0 +1,161 @@
+.div {
+    position: absolute;
+    top: 501px;
+    left: 1612px;
+    line-height: 64px;
+    display: inline-block;
+    width: 67px;
+    height: 56px;
+    cursor: pointer;
+}
+.div1 {
+    position: absolute;
+    top: 501px;
+    left: 116px;
+    line-height: 64px;
+    display: inline-block;
+    width: 67px;
+    height: 56px;
+    transform:  rotate(180deg);
+    transform-origin: 0 0;
+}
+.blank-line {
+    margin: 0;
+}
+.text {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    letter-spacing: -0.03em;
+    line-height: 30px;
+    display: inline-block;
+    width: 387px;
+    height: 752px;
+}
+.this-ring-was {
+    position: absolute;
+    top: 43px;
+    left: 2px;
+    letter-spacing: -0.03em;
+    line-height: 24px;
+    display: inline-block;
+    width: 387px;
+    height: 85px;
+}
+.nonmember-3rd {
+    position: absolute;
+    top: 199px;
+    left: 0px;
+    letter-spacing: -0.03em;
+    line-height: 30px;
+    display: inline-block;
+    width: 387px;
+    height: 42px;
+}
+.now-in-a {
+    position: absolute;
+    top: 298px;
+    left: 0px;
+    letter-spacing: -0.03em;
+    line-height: 24px;
+    display: inline-block;
+    width: 387px;
+    height: 67px;
+}
+.time {
+    position: absolute;
+    top: 168px;
+    left: 0px;
+    letter-spacing: -0.03em;
+    line-height: 30px;
+    font-family: ABeeZee;
+    display: inline-block;
+    width: 116px;
+    height: 23px;
+}
+.memory {
+    position: absolute;
+    top: 12px;
+    left: 0px;
+    letter-spacing: -0.03em;
+    line-height: 30px;
+    font-family: ABeeZee;
+    display: inline-block;
+    width: 116px;
+    height: 23px;
+}
+.its-worn-finish {
+    position: absolute;
+    top: 35px;
+    left: 1px;
+    letter-spacing: -0.03em;
+    line-height: 24px;
+    display: inline-block;
+    width: 387px;
+    height: 56px;
+}
+.more-info {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: -0.03em;
+    line-height: 30px;
+    font-family: ABeeZee;
+    display: inline-block;
+    width: 116px;
+    height: 23px;
+}
+.its-worn-finish-and-chipped-sh-parent {
+    position: absolute;
+    top: 376px;
+    left: 1px;
+    width: 388px;
+    height: 91px;
+}
+.location {
+    position: absolute;
+    top: 264px;
+    left: 0px;
+    letter-spacing: -0.03em;
+    line-height: 30px;
+    font-family: ABeeZee;
+    display: inline-block;
+    width: 116px;
+    height: 26px;
+}
+.text-parent {
+    width: 389px;
+    position: relative;
+    height: 752px;
+}
+.ring-entry-inner {
+    position: absolute;
+    top: 72px;
+    left: 196px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: justify;
+    font-size: 24px;
+}
+.ring-2-icon {
+    position: absolute;
+    top: 115px;
+    left: 585px;
+    width: 967px;
+    height: 995px;
+    object-fit: cover;
+}
+.ring-entry {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1117px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 100px;
+    color: #000;
+    font-family: Abel;
+}
+
