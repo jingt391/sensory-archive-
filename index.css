@@ -1,10 +1,13 @@
 .p {
     margin: 0;
 }
+
 .txt {
     line-break: anywhere;
     width: 100%;
+
 }
+
 .div {
     position: absolute;
     top: 0px;
@@ -17,6 +20,7 @@
     height: 392px;
     filter: blur(1px);
 }
+
 .div1 {
     position: absolute;
     top: 0px;
@@ -29,6 +33,7 @@
     height: 392px;
     filter: blur(1px);
 }
+
 .div2 {
     position: absolute;
     top: 382px;
@@ -41,6 +46,7 @@
     height: 392px;
     filter: blur(2px);
 }
+
 .div3 {
     position: absolute;
     top: 382px;
@@ -53,6 +59,7 @@
     height: 392px;
     filter: blur(2px);
 }
+
 .div4 {
     position: absolute;
     top: 774px;
@@ -65,6 +72,7 @@
     height: 392px;
     filter: blur(3px);
 }
+
 .div5 {
     position: absolute;
     top: 774px;
@@ -77,6 +85,7 @@
     height: 392px;
     filter: blur(3px);
 }
+
 .div6 {
     position: absolute;
     top: 1166px;
@@ -89,6 +98,7 @@
     height: 392px;
     filter: blur(4px);
 }
+
 .div7 {
     position: absolute;
     top: 1166px;
@@ -101,6 +111,7 @@
     height: 392px;
     filter: blur(4px);
 }
+
 .div8 {
     position: absolute;
     top: 1558px;
@@ -113,6 +124,7 @@
     height: 392px;
     filter: blur(5px);
 }
+
 .div9 {
     position: absolute;
     top: 1558px;
@@ -125,6 +137,7 @@
     height: 392px;
     filter: blur(5px);
 }
+
 .div10 {
     position: absolute;
     top: 1950px;
@@ -137,6 +150,7 @@
     height: 392px;
     filter: blur(6px);
 }
+
 .div11 {
     position: absolute;
     top: 1950px;
@@ -150,6 +164,7 @@
     filter: blur(6px);
 
 }
+
 .div12 {
     position: absolute;
     top: 2342px;
@@ -162,6 +177,7 @@
     height: 392px;
     filter: blur(8px);
 }
+
 .div13 {
     position: absolute;
     top: 2342px;
@@ -174,6 +190,7 @@
     height: 392px;
     filter: blur(8px);
 }
+
 .div14 {
     position: absolute;
     top: 2734px;
@@ -186,6 +203,7 @@
     height: 392px;
     filter: blur(10px);
 }
+
 .div15 {
     position: absolute;
     top: 2734px;
@@ -198,11 +216,13 @@
     height: 392px;
     filter: blur(10px);
 }
+
 .parent {
     width: 252px;
     position: relative;
     height: 3752px;
 }
+
 .sensory-archive-inner {
     position: absolute;
     top: 945px;
@@ -215,6 +235,7 @@
     font-size: 64px;
     font-family: Khmer;
 }
+
 .sensory-archive1 {
     position: relative;
     line-height: 64px;
@@ -223,12 +244,14 @@
 
 
 }
+
 .sensory-archive-wrapper {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
 }
+
 .sensory-archive-child {
     position: absolute;
     top: 448px;
@@ -240,6 +263,7 @@
     justify-content: flex-end;
     font-size: 230px;
 }
+
 .explore {
     position: absolute;
     top: 0px;
@@ -249,6 +273,7 @@
     width: 99px;
     height: 56px;
 }
+
 .about {
     position: absolute;
     top: 48px;
@@ -258,6 +283,7 @@
     width: 99px;
     height: 56px;
 }
+
 .sensories {
     position: absolute;
     top: 98px;
@@ -268,11 +294,13 @@
     width: 151px;
     height: 56px;
 }
+
 .explore-parent {
     width: 153px;
     position: relative;
     height: 154px;
 }
+
 .sensory-archive-exploring {
     width: 552px;
     position: relative;
@@ -283,6 +311,7 @@
     height: 56px;
     flex-shrink: 0;
 }
+
 .group-parent {
     position: absolute;
     top: 14px;
@@ -294,6 +323,7 @@
     justify-content: space-between;
     text-align: left;
 }
+
 .H_Grad-group {
     position: absolute;
     top: 44px;
@@ -305,14 +335,15 @@
     filter: grayscale(10%)blur(1px);
 
 }
+
 .H_Grad-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
 
 .cello-group {
-    position:absolute;
+    position: absolute;
     top: 480px;
     left: 1px;
     width: 387px;
@@ -321,11 +352,13 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(20%)blur(2px);
 }
+
 .cello-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .skate-group {
     position: absolute;
     top: 0px;
@@ -336,11 +369,13 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(30%)blur(3px);
 }
+
 .skate-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .group-wrapper {
     position: absolute;
     top: 828px;
@@ -348,6 +383,7 @@
     width: 346.2px;
     height: 348px;
 }
+
 .flower-group {
     position: absolute;
     top: 1176px;
@@ -358,11 +394,13 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(40%)blur(4px);
 }
+
 .flower-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .phone-group {
     position: absolute;
     top: 1602px;
@@ -373,9 +411,10 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(50%)blur(5px);
 }
+
 .phone-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
 
@@ -389,11 +428,13 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(60%)blur(6px);
 }
+
 .k-grad-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .piano-group {
     position: absolute;
     top: 2407px;
@@ -404,9 +445,10 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(80%)blur(8px);
 }
+
 .piano-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
 
@@ -420,11 +462,13 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(100%)blur(10px);
 }
+
 .teddy-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .grad-group-parent {
     position: absolute;
     top: 912px;
@@ -432,6 +476,7 @@
     width: 389px;
     height: 3793px;
 }
+
 .ring-group {
     position: absolute;
     top: 0px;
@@ -443,9 +488,10 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(10%)blur(1px);
 }
-    .ring-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+
+.ring-group:hover {
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
 
@@ -462,10 +508,11 @@
 }
 
 .stilllife-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .pacifier-group {
     position: absolute;
     top: 805px;
@@ -476,11 +523,13 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(30%)blur(3px);
 }
+
 .pacifier-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .pandent-group {
     position: absolute;
     top: 1176px;
@@ -491,11 +540,13 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(40%)blur(4px);
 }
+
 .pandent-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .dog-group {
     position: absolute;
     top: 1557px;
@@ -506,11 +557,13 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(50%)blur(5px);
 }
+
 .dog-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .book-group {
     position: absolute;
     top: 1991px;
@@ -521,11 +574,13 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(60%)blur(6px);
 }
+
 .book-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .ballet-group {
     position: absolute;
     top: 2398px;
@@ -536,11 +591,13 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(80%)blur(8px);
 }
+
 .ballet-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .ballon-group {
     position: absolute;
     top: 2736px;
@@ -551,11 +608,13 @@
     transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
     filter: grayscale(100%)blur(10px);
 }
+
 .ballon-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
+    filter: brightness(100%);
+    filter: blur(1px);
     transform: scale(1.15);
 }
+
 .ring-1-parent {
     position: absolute;
     top: 960px;
@@ -563,6 +622,7 @@
     width: 387px;
     height: 3747px;
 }
+
 .home {
     position: absolute;
     top: 0px;
@@ -574,6 +634,7 @@
     width: 114px;
     height: 56px;
 }
+
 .about1 {
     position: absolute;
     top: 0px;
@@ -586,6 +647,7 @@
     height: 56px;
     cursor: pointer;
 }
+
 .sensories1 {
     position: absolute;
     top: 0px;
@@ -598,11 +660,13 @@
     width: 151px;
     height: 56px;
 }
+
 .home-parent {
     width: 402px;
     position: relative;
     height: 56px;
 }
+
 .sensory-archive-exploring1 {
     width: 552px;
     position: relative;
@@ -612,6 +676,7 @@
     height: 56px;
     flex-shrink: 0;
 }
+
 .group-container {
     position: absolute;
     top: 16px;
@@ -622,6 +687,7 @@
     align-items: center;
     justify-content: space-between;
 }
+
 .sensory-archive {
     width: 100%;
     position: relative;
@@ -633,4 +699,3 @@
     color: #000;
     font-family: Barlow;
 }
-
