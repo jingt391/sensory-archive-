@@ -35,10 +35,13 @@
 .p {
     margin: 0;
 }
+
 .txt {
     line-break: anywhere;
     width: 100%;
+
 }
+
 .div {
     position: absolute;
     top: 0px;
@@ -51,6 +54,7 @@
     height: 392px;
 
 }
+
 .div1 {
     position: absolute;
     top: 0px;
@@ -63,6 +67,7 @@
     height: 392px;
     
 }
+
 .div2 {
     position: absolute;
     top: 382px;
@@ -76,6 +81,7 @@
     filter: blur(2px);
     
 }
+
 .div3 {
     position: absolute;
     top: 382px;
@@ -88,6 +94,7 @@
     height: 392px;
     filter: blur(2px);
 }
+
 .div4 {
     position: absolute;
     top: 774px;
@@ -100,6 +107,7 @@
     height: 392px;
     filter: blur(4px);
 }
+
 .div5 {
     position: absolute;
     top: 774px;
@@ -112,6 +120,7 @@
     height: 392px;
     filter: blur(4px);
 }
+
 .div6 {
     position: absolute;
     top: 1166px;
@@ -124,6 +133,7 @@
     height: 392px;
     filter: blur(6px);
 }
+
 .div7 {
     position: absolute;
     top: 1166px;
@@ -136,6 +146,7 @@
     height: 392px;
     filter: blur(6px);
 }
+
 .div8 {
     position: absolute;
     top: 1558px;
@@ -148,6 +159,7 @@
     height: 392px;
     filter: blur(9px);
 }
+
 .div9 {
     position: absolute;
     top: 1558px;
@@ -160,6 +172,7 @@
     height: 392px;
     filter: blur(9px);
 }
+
 .div10 {
     position: absolute;
     top: 1950px;
@@ -172,6 +185,7 @@
     height: 392px;
     filter: blur(13px);
 }
+
 .div11 {
     position: absolute;
     top: 1950px;
@@ -184,6 +198,7 @@
     height: 392px;
     filter: blur(13px);
 }
+
 .div12 {
     position: absolute;
     top: 2342px;
@@ -196,6 +211,7 @@
     height: 392px;
     filter: blur(16px);
 }
+
 .div13 {
     position: absolute;
     top: 2342px;
@@ -208,6 +224,7 @@
     height: 392px;
     filter: blur(16px);
 }
+
 .div14 {
     position: absolute;
     top: 2734px;
@@ -220,6 +237,7 @@
     height: 392px;
     filter: blur(20px);
 }
+
 .div15 {
     position: absolute;
     top: 2734px;
@@ -232,6 +250,7 @@
     height: 392px;
     filter: blur(20px);
 }
+
 .parent {
     width: 252px;
     position: relative;
@@ -266,6 +285,7 @@
     align-items: center;
     justify-content: flex-end;
 }
+
 .explore {
     position: absolute;
     top: 0px;
@@ -275,6 +295,7 @@
     width: 99px;
     height: 56px;
 }
+
 .about {
     position: absolute;
     top: 48px;
@@ -284,6 +305,7 @@
     width: 99px;
     height: 56px;
 }
+
 .sensories {
     position: absolute;
     top: 98px;
@@ -294,11 +316,13 @@
     width: 151px;
     height: 56px;
 }
+
 .explore-parent {
     width: 153px;
     position: relative;
     height: 154px;
 }
+
 .sensory-archive-exploring {
     width: 552px;
     position: relative;
@@ -309,6 +333,7 @@
     height: 56px;
     flex-shrink: 0;
 }
+
 .group-parent {
     position: absolute;
     top: 14px;
@@ -321,6 +346,7 @@
     text-align: left;
     font-size: 24px;
 }
+
 .home {
     position: absolute;
     top: 0px;
@@ -360,11 +386,13 @@
     height: 56px;
     cursor: pointer;
 }
+
 .home-parent {
     width: 402px;
     position: relative;
     height: 56px;
 }
+
 .sensory-archive-exploring1 {
     width: 552px;
     position: relative;
@@ -374,6 +402,7 @@
     height: 56px;
     flex-shrink: 0;
 }
+
 .group-container {
     position: absolute;
     top: 16px;
@@ -872,6 +901,7 @@
     gap: 72px;
     font-size: 20px;
 }
+
 .sensory-archive {
     width: 100%;
     position: relative;
@@ -883,4 +913,3 @@
     color: #000;
     font-family: Barlow;
 }
-
