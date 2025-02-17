@@ -1,19 +1,27 @@
+.pacifier-2-icon {
+    position: absolute;
+    top: 100px;
+    left: 750px;
+    width: 550px;
+    height: 791px;
+    object-fit: cover;
+}
 .location1 {
     margin: 0;
 }
 .location {
     position: absolute;
-    top: 232px;
-    left: 0px;
+    top: 236px;
+    left: 1px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
     width: 392px;
     height: 29px;
 }
-.this-ring-was {
+.my-aunts-son {
     position: absolute;
-    top: 27px;
+    top: 29px;
     left: 1px;
     letter-spacing: -0.03em;
     line-height: 28px;
@@ -22,19 +30,19 @@
     width: 387px;
     height: 85px;
 }
-.nonmember-3rd {
+.may-29th {
     position: absolute;
-    top: 192px;
-    left: 4px;
+    top: 187px;
+    left: 2px;
     letter-spacing: -0.03em;
-    line-height: 18px;
+    line-height: 30px;
     display: inline-block;
     width: 387px;
     height: 29px;
 }
 .time {
     position: absolute;
-    top: 162px;
+    top: 163px;
     left: 1px;
     letter-spacing: -0.03em;
     line-height: 30px;
@@ -45,19 +53,19 @@
 .memory {
     position: absolute;
     top: 0px;
-    left: 1px;
+    left: 2px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
     width: 116px;
     height: 23px;
 }
-.its-worn-finish {
+.he-is-now {
     position: absolute;
-    top: 25px;
+    top: 27px;
     left: 0px;
     letter-spacing: -0.03em;
-    line-height: 28px;
+    line-height: 24px;
     display: inline-block;
     width: 387px;
     height: 56px;
@@ -65,7 +73,7 @@
 .more-info {
     position: absolute;
     top: 0px;
-    left: 0px;
+    left: 1px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
@@ -73,28 +81,28 @@
     width: 116px;
     height: 23px;
 }
-.its-worn-finish-and-chipped-sh-parent {
+.he-is-now-seven-years-old-parent {
     position: absolute;
-    top: 337px;
-    left: 1px;
+    top: 308px;
+    left: 0px;
     width: 387px;
-    height: 81px;
+    height: 83px;
     text-align: left;
 }
-.now-in-a {
+.beijing-china {
     position: absolute;
-    top: 258px;
-    left: 0px;
+    top: 264px;
+    left: 1px;
     letter-spacing: -0.03em;
-    line-height: 28px;
+    line-height: 24px;
     display: inline-block;
     width: 387px;
     height: 128px;
 }
 .location-parent {
-    width: 392px;
+    width: 393px;
     position: relative;
-    height: 418px;
+    height: 392px;
 }
 .group-wrapper {
     display: flex;
@@ -102,30 +110,15 @@
     align-items: center;
     justify-content: flex-start;
 }
-.frame-wrapper {
+.web-2-1-4-inner {
+    position: absolute;
+    top: 114px;
+    left: 186px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
     padding: 10px;
-}
-.ring-entry-inner {
-    position: absolute;
-    top: 99px;
-    left: 172px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
-    padding: 10px;
-}
-.ring-2-icon {
-    position: absolute;
-    top: 42px;
-    left: 603px;
-    width: 967px;
-    height: 995px;
-    object-fit: cover;
 }
 .home {
     position: absolute;
@@ -198,7 +191,7 @@
     flex-shrink: 0;
     transform:  rotate(180deg);
     cursor: pointer;
-    color:black;
+    color: black;
 }
 .div1 {
     width: 67px;
@@ -208,7 +201,7 @@
     height: 56px;
     flex-shrink: 0;
     cursor: pointer;
-    color:black;
+    color: black;
 }
 .parent {
     position: absolute;
@@ -223,7 +216,7 @@
     font-size: 100px;
     font-family: Abel;
 }
-.ring-entry {
+.web-2-1-4 {
     width: 100%;
     position: relative;
     background-color: #fff;

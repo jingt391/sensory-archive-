@@ -1,19 +1,35 @@
+.stilllife-1-icon {
+    width: 966px;
+    position: relative;
+    height: 972px;
+    object-fit: cover;
+}
+.stilllife-1-wrapper {
+    position: absolute;
+    top: -11px;
+    left: 669px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+}
 .location1 {
     margin: 0;
 }
 .location {
     position: absolute;
-    top: 232px;
-    left: 0px;
+    top: 204px;
+    left: 4px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
     width: 392px;
     height: 29px;
 }
-.this-ring-was {
+.the-most-painful {
     position: absolute;
-    top: 27px;
+    top: 28px;
     left: 1px;
     letter-spacing: -0.03em;
     line-height: 28px;
@@ -22,19 +38,19 @@
     width: 387px;
     height: 85px;
 }
-.nonmember-3rd {
+.april-9th {
     position: absolute;
-    top: 192px;
-    left: 4px;
+    top: 150px;
+    left: 0px;
     letter-spacing: -0.03em;
-    line-height: 18px;
+    line-height: 30px;
     display: inline-block;
     width: 387px;
     height: 29px;
 }
 .time {
     position: absolute;
-    top: 162px;
+    top: 125px;
     left: 1px;
     letter-spacing: -0.03em;
     line-height: 30px;
@@ -45,19 +61,28 @@
 .memory {
     position: absolute;
     top: 0px;
-    left: 1px;
+    left: 2px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
     width: 116px;
     height: 23px;
 }
-.its-worn-finish {
+.dont-remember-how {
+    line-height: 24px;
+}
+.span {
+    line-height: 28px;
+}
+.cried-a-lot {
+    line-height: 24px;
+    white-space: pre-wrap;
+}
+.dont-remember-how-container {
     position: absolute;
-    top: 25px;
+    top: 28px;
     left: 0px;
     letter-spacing: -0.03em;
-    line-height: 28px;
     display: inline-block;
     width: 387px;
     height: 56px;
@@ -65,7 +90,7 @@
 .more-info {
     position: absolute;
     top: 0px;
-    left: 0px;
+    left: 1px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
@@ -73,17 +98,17 @@
     width: 116px;
     height: 23px;
 }
-.its-worn-finish-and-chipped-sh-parent {
+.dont-remember-how-many-time-b-parent {
     position: absolute;
-    top: 337px;
-    left: 1px;
+    top: 333px;
+    left: 0px;
     width: 387px;
-    height: 81px;
+    height: 84px;
     text-align: left;
 }
-.now-in-a {
+.the-bottles-are {
     position: absolute;
-    top: 258px;
+    top: 230px;
     left: 0px;
     letter-spacing: -0.03em;
     line-height: 28px;
@@ -92,9 +117,9 @@
     height: 128px;
 }
 .location-parent {
-    width: 392px;
+    width: 396px;
     position: relative;
-    height: 418px;
+    height: 417px;
 }
 .group-wrapper {
     display: flex;
@@ -102,30 +127,15 @@
     align-items: center;
     justify-content: flex-start;
 }
-.frame-wrapper {
+.stillife-inner {
+    position: absolute;
+    top: 114px;
+    left: 186px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
     padding: 10px;
-}
-.ring-entry-inner {
-    position: absolute;
-    top: 99px;
-    left: 172px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
-    padding: 10px;
-}
-.ring-2-icon {
-    position: absolute;
-    top: 42px;
-    left: 603px;
-    width: 967px;
-    height: 995px;
-    object-fit: cover;
 }
 .home {
     position: absolute;
@@ -163,6 +173,7 @@
     justify-content: center;
     width: 151px;
     height: 56px;
+    color: black;
 }
 .home-parent {
     width: 402px;
@@ -223,7 +234,7 @@
     font-size: 100px;
     font-family: Abel;
 }
-.ring-entry {
+.stillife {
     width: 100%;
     position: relative;
     background-color: #fff;

@@ -1,9 +1,25 @@
+.book-1-icon {
+    width: 400px;
+    position: relative;
+    height: 800px;
+    object-fit: cover;
+}
+.book-1-wrapper {
+    position: absolute;
+    top: 114px;
+    left: 900px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+}
 .location1 {
     margin: 0;
 }
 .location {
     position: absolute;
-    top: 232px;
+    top: 228px;
     left: 0px;
     letter-spacing: -0.03em;
     line-height: 30px;
@@ -11,9 +27,9 @@
     width: 392px;
     height: 29px;
 }
-.this-ring-was {
+.this-series-of {
     position: absolute;
-    top: 27px;
+    top: 29px;
     left: 1px;
     letter-spacing: -0.03em;
     line-height: 28px;
@@ -22,19 +38,19 @@
     width: 387px;
     height: 85px;
 }
-.nonmember-3rd {
+.january-22th {
     position: absolute;
-    top: 192px;
-    left: 4px;
+    top: 181px;
+    left: 1px;
     letter-spacing: -0.03em;
-    line-height: 18px;
+    line-height: 30px;
     display: inline-block;
     width: 387px;
     height: 29px;
 }
 .time {
     position: absolute;
-    top: 162px;
+    top: 157px;
     left: 1px;
     letter-spacing: -0.03em;
     line-height: 30px;
@@ -52,12 +68,13 @@
     width: 116px;
     height: 23px;
 }
-.its-worn-finish {
+.i-had-a {
     position: absolute;
-    top: 25px;
+    top: 26px;
     left: 0px;
     letter-spacing: -0.03em;
     line-height: 28px;
+    white-space: pre-wrap;
     display: inline-block;
     width: 387px;
     height: 56px;
@@ -73,20 +90,20 @@
     width: 116px;
     height: 23px;
 }
-.its-worn-finish-and-chipped-sh-parent {
+.i-had-a-collection-of-the-whol-parent {
     position: absolute;
-    top: 337px;
-    left: 1px;
+    top: 299px;
+    left: 0px;
     width: 387px;
-    height: 81px;
+    height: 82px;
     text-align: left;
 }
-.now-in-a {
+.no-clue {
     position: absolute;
-    top: 258px;
+    top: 256px;
     left: 0px;
     letter-spacing: -0.03em;
-    line-height: 28px;
+    line-height: 24px;
     display: inline-block;
     width: 387px;
     height: 128px;
@@ -94,7 +111,7 @@
 .location-parent {
     width: 392px;
     position: relative;
-    height: 418px;
+    height: 384px;
 }
 .group-wrapper {
     display: flex;
@@ -109,23 +126,15 @@
     justify-content: flex-start;
     padding: 10px;
 }
-.ring-entry-inner {
+.web-2-1-4-inner {
     position: absolute;
-    top: 99px;
-    left: 172px;
+    top: 104px;
+    left: 176px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
     padding: 10px;
-}
-.ring-2-icon {
-    position: absolute;
-    top: 42px;
-    left: 603px;
-    width: 967px;
-    height: 995px;
-    object-fit: cover;
 }
 .home {
     position: absolute;
@@ -137,7 +146,7 @@
     justify-content: center;
     width: 114px;
     height: 56px;
-    color: black;
+    color: #000;
 }
 .about {
     position: absolute;
@@ -150,7 +159,7 @@
     width: 115px;
     height: 56px;
     cursor: pointer;
-    color: black;
+    color: #000;
 }
 .sensories {
     position: absolute;
@@ -163,6 +172,7 @@
     justify-content: center;
     width: 151px;
     height: 56px;
+    color: #000;
 }
 .home-parent {
     width: 402px;
@@ -198,7 +208,7 @@
     flex-shrink: 0;
     transform:  rotate(180deg);
     cursor: pointer;
-    color:black;
+    color: #000;
 }
 .div1 {
     width: 67px;
@@ -208,7 +218,7 @@
     height: 56px;
     flex-shrink: 0;
     cursor: pointer;
-    color:black;
+    color: #000;
 }
 .parent {
     position: absolute;
@@ -223,7 +233,7 @@
     font-size: 100px;
     font-family: Abel;
 }
-.ring-entry {
+.web-2-1-4 {
     width: 100%;
     position: relative;
     background-color: #fff;

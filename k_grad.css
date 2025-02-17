@@ -7,7 +7,7 @@
     flex-shrink: 0;
     transform:  rotate(180deg);
     cursor: pointer;
-    color:black;
+    color: #000;
 }
 .div1 {
     width: 67px;
@@ -17,7 +17,35 @@
     height: 56px;
     flex-shrink: 0;
     cursor: pointer;
-    color:black;
+    color: #000;
+}
+.k-grad-2 {
+    position: absolute;
+    top: 200px;
+    left: 700px;
+    width: 704px;
+    height: 880px;
+    object-fit: cover;
+
+}
+.div2 {
+    width: 67px;
+    position: relative;
+    line-height: 64px;
+    display: inline-block;
+    height: 56px;
+    flex-shrink: 0;
+    transform:  rotate(180deg);
+    cursor: pointer;
+}
+.div3 {
+    width: 67px;
+    position: relative;
+    line-height: 64px;
+    display: inline-block;
+    height: 56px;
+    flex-shrink: 0;
+    cursor: pointer;
 }
 .parent {
     position: absolute;
@@ -28,16 +56,6 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    font-size: 100px;
-    font-family: Abel;
-}
-.icon {
-    position: absolute;
-    top: 10px;
-    left: 683px;
-    width: 833px;
-    height: 824px;
-    object-fit: cover;
 }
 .home {
     position: absolute;
@@ -49,7 +67,7 @@
     justify-content: center;
     width: 114px;
     height: 56px;
-    color:black;
+    color: black;
 }
 .about {
     position: absolute;
@@ -62,7 +80,7 @@
     width: 115px;
     height: 56px;
     cursor: pointer;
-    color:black;
+    color: black;
 }
 .sensories {
     position: absolute;
@@ -75,6 +93,7 @@
     justify-content: center;
     width: 151px;
     height: 56px;
+    color: black;
 }
 .home-parent {
     width: 402px;
@@ -100,13 +119,15 @@
     align-items: center;
     justify-content: space-between;
     text-align: center;
+    font-size: 24px;
+    font-family: Barlow;
 }
 .location1 {
     margin: 0;
 }
 .location {
     position: absolute;
-    top: 232px;
+    top: 194px;
     left: 2px;
     letter-spacing: -0.03em;
     line-height: 30px;
@@ -114,31 +135,31 @@
     width: 392px;
     height: 29px;
 }
-.graduating-from-high {
+.graduating-form-my {
     position: absolute;
-    top: 31px;
-    left: 1px;
+    top: 27px;
+    left: 5px;
     letter-spacing: -0.03em;
     line-height: 28px;
     text-align: left;
     display: inline-block;
     width: 387px;
-    height: 85px;
+    height: 147px;
 }
-.june-20th {
+.june-27th {
     position: absolute;
-    top: 185px;
+    top: 147px;
     left: 2px;
     letter-spacing: -0.03em;
-    line-height: 28px;
+    line-height: 30px;
     display: inline-block;
     width: 387px;
     height: 29px;
 }
 .time {
     position: absolute;
-    top: 159px;
-    left: 1px;
+    top: 123px;
+    left: 2px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
@@ -148,16 +169,16 @@
 .memory {
     position: absolute;
     top: 0px;
-    left: 1px;
+    left: 5px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
     width: 116px;
     height: 23px;
 }
-.there-were-a {
+.that-day-was {
     position: absolute;
-    top: 27px;
+    top: 24px;
     left: 0px;
     letter-spacing: -0.03em;
     line-height: 28px;
@@ -168,7 +189,7 @@
 .more-info {
     position: absolute;
     top: 0px;
-    left: 2px;
+    left: 0px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
@@ -176,56 +197,59 @@
     width: 116px;
     height: 23px;
 }
-.there-were-a-few-tear-drop-mar-parent {
+.that-day-was-very-hotmy-ban-parent {
     position: absolute;
-    top: 343px;
-    left: 0px;
+    top: 267px;
+    left: 4px;
     width: 387px;
-    height: 83px;
+    height: 80px;
     text-align: left;
 }
-.in-a-sealed {
+.old-apartment-in {
     position: absolute;
-    top: 260px;
+    top: 218px;
     left: 2px;
     letter-spacing: -0.03em;
-    line-height: 28px;
+    line-height: 30px;
     text-align: left;
     display: inline-block;
     width: 387px;
     height: 128px;
 }
 .location-parent {
-    width: 394px;
+    width: 393px;
     position: relative;
-    height: 426px;
+    height: 347px;
 }
 .group-wrapper {
+    align-self: stretch;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
 }
-.grad-inner {
+.web-2-1-4-inner {
     position: absolute;
-    top: 110px;
-    left: 186px;
+    top: 125px;
+    left: 191px;
+    width: 392px;
     display: flex;
-    flex-direction: row;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
     justify-content: flex-start;
-    padding: 10px;
     text-align: justify;
+    font-size: 24px;
+    font-family: Barlow;
 }
-.grad {
+.web-2-1-4 {
     width: 100%;
     position: relative;
     background-color: #fff;
     height: 1117px;
     overflow: hidden;
     text-align: left;
-    font-size: 24px;
+    font-size: 100px;
     color: #000;
-    font-family: Barlow;
+    font-family: Abel;
 }
 

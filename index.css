@@ -1,3 +1,37 @@
+.sensory-archive-child {
+    position: absolute;
+    top: 4048px;
+    left: 0px;
+    background-color: #e1e1e1;
+    width: 1728px;
+    height: 441px;
+    opacity: 0.65;
+}
+.sensory-archive1 {
+    position: relative;
+    line-height: 64px;
+    font-weight: 300;
+    text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+.sensory-archive-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.sensory-archive-inner {
+    position: absolute;
+    top: 4064px;
+    left: -41px;
+    width: 1668px;
+    height: 296px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    opacity: 0.31;
+    color: #fff;
+}
 .p {
     margin: 0;
 }
@@ -15,7 +49,7 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(1px);
+
 }
 .div1 {
     position: absolute;
@@ -27,12 +61,12 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(1px);
+    
 }
 .div2 {
     position: absolute;
     top: 382px;
-    left: -11px;
+    left: -5px;
     letter-spacing: -0.05em;
     line-height: 89px;
     display: flex;
@@ -40,6 +74,7 @@
     width: 115px;
     height: 392px;
     filter: blur(2px);
+    
 }
 .div3 {
     position: absolute;
@@ -56,14 +91,14 @@
 .div4 {
     position: absolute;
     top: 774px;
-    left: -11px;
+    left: -5px;
     letter-spacing: -0.05em;
     line-height: 89px;
     display: flex;
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(3px);
+    filter: blur(4px);
 }
 .div5 {
     position: absolute;
@@ -75,19 +110,19 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(3px);
+    filter: blur(4px);
 }
 .div6 {
     position: absolute;
     top: 1166px;
-    left: 0px;
+    left: -5px;
     letter-spacing: -0.05em;
     line-height: 89px;
     display: flex;
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(4px);
+    filter: blur(6px);
 }
 .div7 {
     position: absolute;
@@ -99,7 +134,7 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(4px);
+    filter: blur(6px);
 }
 .div8 {
     position: absolute;
@@ -111,7 +146,7 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(5px);
+    filter: blur(9px);
 }
 .div9 {
     position: absolute;
@@ -123,7 +158,7 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(5px);
+    filter: blur(9px);
 }
 .div10 {
     position: absolute;
@@ -135,7 +170,7 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(6px);
+    filter: blur(13px);
 }
 .div11 {
     position: absolute;
@@ -147,8 +182,7 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(6px);
-
+    filter: blur(13px);
 }
 .div12 {
     position: absolute;
@@ -160,7 +194,7 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(8px);
+    filter: blur(16px);
 }
 .div13 {
     position: absolute;
@@ -172,7 +206,7 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(8px);
+    filter: blur(16px);
 }
 .div14 {
     position: absolute;
@@ -184,7 +218,7 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(10px);
+    filter: blur(20px);
 }
 .div15 {
     position: absolute;
@@ -196,49 +230,41 @@
     align-items: center;
     width: 115px;
     height: 392px;
-    filter: blur(10px);
+    filter: blur(20px);
 }
 .parent {
     width: 252px;
     position: relative;
-    height: 3752px;
+    height: 3228px;
 }
-.sensory-archive-inner {
+.frame-div {
     position: absolute;
-    top: 945px;
-    left: 724px;
+    top: 720px;
+    left: 725px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
     padding: 10px;
     font-size: 64px;
-    font-family: Khmer;
+    font-family: Khula;
 }
-.sensory-archive1 {
+.sensory-archive2 {
     position: relative;
     line-height: 64px;
-    filter: blur(2px);
-    transform: matrix3d(1px);
-
-
+    font-weight: 300;
+    text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
 }
-.sensory-archive-wrapper {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-.sensory-archive-child {
+.sensory-archive-inner1 {
     position: absolute;
-    top: 448px;
+    top: 304px;
     left: 0px;
     width: 1668px;
+    height: 296px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: flex-end;
-    font-size: 230px;
 }
 .explore {
     position: absolute;
@@ -293,275 +319,7 @@
     align-items: flex-start;
     justify-content: space-between;
     text-align: left;
-}
-.H_Grad-group {
-    position: absolute;
-    top: 44px;
-    left: 23px;
-    width: 343.5px;
-    height: 340px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1);
-    filter: grayscale(10%)blur(1px);
-
-}
-.H_Grad-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-
-.cello-group {
-    position:absolute;
-    top: 480px;
-    left: 1px;
-    width: 387px;
-    height: 350px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(20%)blur(2px);
-}
-.cello-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.skate-group {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 346.2px;
-    height: 348px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(30%)blur(3px);
-}
-.skate-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.group-wrapper {
-    position: absolute;
-    top: 828px;
-    left: 21px;
-    width: 346.2px;
-    height: 348px;
-}
-.flower-group {
-    position: absolute;
-    top: 1176px;
-    left: 0px;
-    width: 389px;
-    height: 381px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(40%)blur(4px);
-}
-.flower-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.phone-group {
-    position: absolute;
-    top: 1602px;
-    left: 1px;
-    width: 339px;
-    height: 342px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(50%)blur(5px);
-}
-.phone-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-
-.k-grad-group {
-    position: absolute;
-    top: 2017px;
-    left: 0px;
-    width: 327px;
-    height: 331.2px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(60%)blur(6px);
-}
-.k-grad-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.piano-group {
-    position: absolute;
-    top: 2407px;
-    left: 31px;
-    width: 327px;
-    height: 327px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(80%)blur(8px);
-}
-.piano-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-
-.teddy-group {
-    position: absolute;
-    top: 2830px;
-    left: 31px;
-    width: 321px;
-    height: 317px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(100%)blur(10px);
-}
-.teddy-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.grad-group-parent {
-    position: absolute;
-    top: 912px;
-    left: 1000px;
-    width: 389px;
-    height: 3793px;
-}
-.ring-group {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 387px;
-    height: 387px;
-    object-fit: cover;
-    cursor: pointer;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(10%)blur(1px);
-}
-    .ring-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-
-.stilllife-group {
-    position: absolute;
-    top: 387px;
-    left: 0px;
-    width: 387px;
-    height: 389px;
-    object-fit: cover;
-    cursor: pointer;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(20%)blur(2px);
-}
-
-.stilllife-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.pacifier-group {
-    position: absolute;
-    top: 805px;
-    left: 15px;
-    width: 338px;
-    height: 342px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(30%)blur(3px);
-}
-.pacifier-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.pandent-group {
-    position: absolute;
-    top: 1176px;
-    left: 0px;
-    width: 387px;
-    height: 381px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(40%)blur(4px);
-}
-.pandent-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.dog-group {
-    position: absolute;
-    top: 1557px;
-    left: 27px;
-    width: 313px;
-    height: 345px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(50%)blur(5px);
-}
-.dog-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.book-group {
-    position: absolute;
-    top: 1991px;
-    left: 19px;
-    width: 349px;
-    height: 379px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(60%)blur(6px);
-}
-.book-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.ballet-group {
-    position: absolute;
-    top: 2398px;
-    left: 123px;
-    width: 203px;
-    height: 338px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(80%)blur(8px);
-}
-.ballet-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.ballon-group {
-    position: absolute;
-    top: 2736px;
-    left: 55px;
-    width: 387px;
-    height: 392px;
-    object-fit: cover;
-    transition: cubic-bezier(0.75, 0.82, 0.2, 1.5);
-    filter: grayscale(100%)blur(10px);
-}
-.ballon-group:hover {
-    filter:brightness(100%);
-    filter:blur(1px);
-    transform: scale(1.15);
-}
-.ring-1-parent {
-    position: absolute;
-    top: 960px;
-    left: 331px;
-    width: 387px;
-    height: 3747px;
+    font-size: 24px;
 }
 .home {
     position: absolute;
@@ -574,10 +332,11 @@
     width: 114px;
     height: 56px;
 }
+
 .about1 {
     position: absolute;
     top: 0px;
-    left: 136px;
+    left: 125px;
     line-height: 64px;
     display: flex;
     align-items: center;
@@ -585,7 +344,9 @@
     width: 115px;
     height: 56px;
     cursor: pointer;
+    color: black;
 }
+
 .sensories1 {
     position: absolute;
     top: 0px;
@@ -597,6 +358,7 @@
     justify-content: center;
     width: 151px;
     height: 56px;
+    cursor: pointer;
 }
 .home-parent {
     width: 402px;
@@ -621,15 +383,503 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    font-size: 24px;
+}
+.tiny-hands-hold {
+    margin: 0;
+    white-space: pre-wrap;
+}
+.tiny-hands-hold-container {
+    position: absolute;
+    top: 1979px;
+    left: 11px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 336px;
+}
+.a-window-to-container {
+    position: absolute;
+    top: 1584px;
+    left: 11px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 335px;
+}
+.petals-soft-colors-container {
+    position: absolute;
+    top: 1195px;
+    left: 11px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 335px;
+}
+.cold-beneath-a-container {
+    position: absolute;
+    top: 803px;
+    left: 13px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 336px;
+    height: 34px;
+}
+.a-paper-light-container {
+    position: absolute;
+    top: 24px;
+    left: 11px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 336px;
+}
+.soft-and-cuddly-container {
+    position: absolute;
+    top: 2357px;
+    left: 0px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 336px;
+    height: 31px;
+}
+.keys-that-sing-container {
+    position: absolute;
+    top: 1963px;
+    left: 0px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 336px;
+    height: 31px;
+}
+.tall-and-slender-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 336px;
+}
+.soft-and-cuddly-warm-and-swee-parent {
+    position: absolute;
+    top: 411px;
+    left: 12px;
+    width: 336px;
+    height: 2388px;
+}
+.H-grad-icon{
+    position: absolute;
+    top: 0px;
+    left: 82px;
+    width: 180px;
+    height: 248px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(1px);
+}
+.H-grad-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+
+.cello-icon {
+    position: absolute;
+    top: 450px;
+    left: 0px;
+    width: 361.8px;
+    height: 227px;
+    overflow: hidden;
+    object-fit: contain;
+    filter: blur(2px);
+}
+.cello-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+.skate-icon{
+    position: absolute;
+    top: 830px;
+    left: 51px;
+    width: 250px;
+    height: 236.3px;
+    overflow: hidden;
+    object-fit: contain;
+    filter: blur(2px);
+}
+.skate-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+.flower-icon {
+    position: absolute;
+    top: 1254px;
+    left: 55px;
+    width: 227px;
+    height: 192px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(3px);
+}
+.flower-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+
+.phone-icon{
+    position: absolute;
+    top: 1650px;
+    left: 68px;
+    width: 202px;
+    height: 200px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(4px);
+}
+.phone-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+
+.k-grad-icon {
+    position: absolute;
+    top: 2050px;
+    left: 78px;
+    width: 191px;
+    height: 224px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(6px);
+}
+.k-grad-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+
+.piano-icon {
+    position: absolute;
+    top: 2430px;
+    left: 75px;
+    width: 195px;
+    height: 201px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(8px);
+}
+.piano-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+
+.teddy-icon {
+    position: absolute;
+    top: 2830px;
+    left: 107px;
+    width: 137px;
+    height: 182px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(10px);
+}
+.teddy-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+
+.tiny-hands-hold-with-pride-sy-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 361.8px;
+    height: 2982px;
+}
+.group-wrapper {
+    width: 361.8px;
+    position: relative;
+    height: 2982px;
+}
+.sensory-archive-inner2 {
+    position: absolute;
+    top: 776px;
+    left: 999px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 12px;
+}
+.bound-in-covers-container {
+    position: absolute;
+    top: 1950px;
+    left: 1px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 337px;
+}
+.loyal-heart-watchful-container {
+    position: absolute;
+    top: 1558px;
+    left: 1px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 336px;
+}
+.bright-and-fine-container {
+    position: absolute;
+    top: 1163px;
+    left: 0px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 336px;
+}
+.small-and-round-container {
+    position: absolute;
+    top: 771px;
+    left: 0px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 337px;
+    height: 34px;
+}
+.a-perfect-circle-container {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 337px;
+}
+.floating-high-drifting-container {
+    position: absolute;
+    top: 2354px;
+    left: 0px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 337px;
+    height: 37px;
+}
+.soft-as-a-container {
+    position: absolute;
+    top: 1965px;
+    left: 0px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 337px;
+    height: 31px;
+}
+.it-stands-so-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 16px;
+    display: inline-block;
+    font-weight: 300;
+    width: 337px;
+}
+.floating-high-drifting-softly-parent {
+    position: absolute;
+    top: 380px;
+    left: 0px;
+    width: 337px;
+    height: 2391px;
+}
+.ring-icon {
+    position: absolute;
+    top: 45px;
+    left: 42px;
+    width: 228px;
+    height: 174px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(1px);
+}
+.ring-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+.stillife-icon {
+    position: absolute;
+    top: 422px;
+    left: 54px;
+    width: 230px;
+    height: 209px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(2px);
+}
+.stillife-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+
+.pacifier-icon {
+    position: absolute;
+    top: 780px;
+    left: 16px;
+    width: 272.5px;
+    height: 275.1px;
+    overflow: hidden;
+    object-fit: contain;
+    filter: blur(3px);
+}
+.pacifier-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+
+.dog-icon {
+    position: absolute;
+    top: 1630px;
+    left: 47px;
+    width: 200px;
+    height: 187px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(6px);
+}
+.dog-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+
+
+.ballet-icon {
+    position: absolute;
+    top: 2420px;
+    left: 95px;
+    width: 136px;
+    height: 169px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(8px);
+}
+.ballet-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+
+.ballon-icon {
+    position: absolute;
+    top: 2790px;
+    left: 91px;
+    width: 136px;
+    height: 203px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(10px);
+}
+.ballon-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+.bound-in-covers-filled-with-w-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 338px;
+    height: 2966px;
+}
+.pandent-icon {
+    position: absolute;
+    top: 1176px;
+    left: 25px;
+    width: 243px;
+    height: 189px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(5px);
+}
+.pandent-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+.book-icon {
+    position: absolute;
+    top: 2000px;
+    left: 97px;
+    width: 133.7px;
+    height: 186px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: blur(5px);
+}
+.book-icon:hover {
+    filter: blur(0); 
+    transform: scale(1.1);
+}
+.group-div {
+    width: 338px;
+    position: relative;
+    height: 2966px;
+}
+.sensory-archive-inner3 {
+    position: absolute;
+    top: 805px;
+    left: 381px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 12px;
+}
+.contact-us {
+    align-self: stretch;
+    position: relative;
+    line-height: 16px;
+    font-weight: 300;
+    display: inline-block;
+    height: 16px;
+    flex-shrink: 0;
+}
+.jingt391newschooledu {
+    margin: 0;
+    line-height: 18px;
+}
+.th-5th-av {
+    margin: 0;
+    line-height: 16px;
+}
+.jingt391newschooledu-63th-5t-container {
+    align-self: stretch;
+    position: relative;
+    font-size: 12px;
+    display: inline-block;
+    font-weight: 300;
+    height: 256px;
+    flex-shrink: 0;
+}
+.contact-us-parent {
+    position: absolute;
+    top: 4136px;
+    left: 718px;
+    width: 292px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 72px;
+    font-size: 20px;
 }
 .sensory-archive {
     width: 100%;
     position: relative;
     background-color: #fff;
-    height: 6634px;
+    height: 4480px;
     overflow: hidden;
     text-align: center;
-    font-size: 24px;
+    font-size: 230px;
     color: #000;
     font-family: Barlow;
 }

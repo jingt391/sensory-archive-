@@ -1,43 +1,11 @@
-.div {
-    width: 67px;
-    position: relative;
-    line-height: 64px;
-    display: inline-block;
-    height: 56px;
-    flex-shrink: 0;
-    transform:  rotate(180deg);
-    cursor: pointer;
-    color:black;
-}
-.div1 {
-    width: 67px;
-    position: relative;
-    line-height: 64px;
-    display: inline-block;
-    height: 56px;
-    flex-shrink: 0;
-    cursor: pointer;
-    color:black;
-}
-.parent {
+.skate-2-icon {
     position: absolute;
-    top: 501px;
-    left: 49px;
-    width: 1630px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    font-size: 100px;
-    font-family: Abel;
-}
-.icon {
-    position: absolute;
-    top: 10px;
-    left: 683px;
-    width: 833px;
-    height: 824px;
+    top: 80px;
+    left: 750px;
+    width: 750px;
+    height: 884px;
     object-fit: cover;
+
 }
 .home {
     position: absolute;
@@ -99,46 +67,46 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    text-align: center;
 }
 .location1 {
     margin: 0;
 }
 .location {
     position: absolute;
-    top: 232px;
-    left: 2px;
+    top: 256px;
+    left: 3px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
     width: 392px;
     height: 29px;
 }
-.graduating-from-high {
+.officially-stooped-training {
     position: absolute;
-    top: 31px;
-    left: 1px;
+    top: 26px;
+    left: 0px;
     letter-spacing: -0.03em;
     line-height: 28px;
+    white-space: pre-wrap;
     text-align: left;
     display: inline-block;
     width: 387px;
     height: 85px;
 }
-.june-20th {
+.december-27th {
     position: absolute;
-    top: 185px;
-    left: 2px;
+    top: 207px;
+    left: 1px;
     letter-spacing: -0.03em;
-    line-height: 28px;
+    line-height: 30px;
     display: inline-block;
     width: 387px;
     height: 29px;
 }
 .time {
     position: absolute;
-    top: 159px;
-    left: 1px;
+    top: 184px;
+    left: 2px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
@@ -148,17 +116,17 @@
 .memory {
     position: absolute;
     top: 0px;
-    left: 1px;
+    left: 2px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
     width: 116px;
     height: 23px;
 }
-.there-were-a {
+.do-i-really {
     position: absolute;
-    top: 27px;
-    left: 0px;
+    top: 25px;
+    left: 1px;
     letter-spacing: -0.03em;
     line-height: 28px;
     display: inline-block;
@@ -168,7 +136,7 @@
 .more-info {
     position: absolute;
     top: 0px;
-    left: 2px;
+    left: 0px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
@@ -176,29 +144,30 @@
     width: 116px;
     height: 23px;
 }
-.there-were-a-few-tear-drop-mar-parent {
+.do-i-really-still-fit-in-i-ha-parent {
     position: absolute;
-    top: 343px;
-    left: 0px;
-    width: 387px;
-    height: 83px;
+    top: 352px;
+    left: 2px;
+    width: 388px;
+    height: 81px;
     text-align: left;
 }
-.in-a-sealed {
+.kept-in-the {
     position: absolute;
-    top: 260px;
+    top: 280px;
     left: 2px;
     letter-spacing: -0.03em;
     line-height: 28px;
+    white-space: pre-wrap;
     text-align: left;
     display: inline-block;
     width: 387px;
     height: 128px;
 }
 .location-parent {
-    width: 394px;
+    width: 395px;
     position: relative;
-    height: 426px;
+    height: 433px;
 }
 .group-wrapper {
     display: flex;
@@ -206,10 +175,10 @@
     align-items: center;
     justify-content: flex-start;
 }
-.grad-inner {
+.web-2-1-4-inner {
     position: absolute;
-    top: 110px;
-    left: 186px;
+    top: 118px;
+    left: 183px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -217,13 +186,47 @@
     padding: 10px;
     text-align: justify;
 }
-.grad {
+.div {
+    width: 67px;
+    position: relative;
+    line-height: 64px;
+    display: inline-block;
+    height: 56px;
+    flex-shrink: 0;
+    transform:  rotate(180deg);
+    cursor: pointer;
+    color:black;
+}
+.div1 {
+    width: 67px;
+    position: relative;
+    line-height: 64px;
+    display: inline-block;
+    height: 56px;
+    flex-shrink: 0;
+    cursor: pointer;
+    color:black;
+}
+.parent {
+    position: absolute;
+    top: 501px;
+    left: 49px;
+    width: 1630px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    font-size: 100px;
+    font-family: Abel;
+}
+.web-2-1-4 {
     width: 100%;
     position: relative;
     background-color: #fff;
     height: 1117px;
     overflow: hidden;
-    text-align: left;
+    text-align: center;
     font-size: 24px;
     color: #000;
     font-family: Barlow;

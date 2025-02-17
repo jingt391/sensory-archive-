@@ -1,0 +1,124 @@
+.about-child {
+    position: absolute;
+    top: 4795px;
+    left: 2696px;
+    background-color: #d9d9d9;
+    width: 1728px;
+    height: 6634px;
+}
+.memories-often-carry {
+    margin: 0;
+}
+.as-time-passes {
+    margin: 0;
+    white-space: pre-wrap;
+}
+.memories-often-carry-container {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 28px;
+}
+.memories-often-carry-the-weigh-wrapper {
+    position: absolute;
+    top: 118px;
+    left: 198px;
+    width: 387px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+.about1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 64px;
+    display: inline-block;
+    font-weight: 300;
+    width: 1550px;
+    text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+}
+.about-wrapper {
+    position: absolute;
+    top: 744px;
+    left: 520px;
+    width: 1550px;
+    height: 64px;
+    font-size: 230px;
+}
+.home {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 114px;
+    height: 56px;
+    color: #000;
+}
+.about2 {
+    position: absolute;
+    top: 0px;
+    left: 136px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 115px;
+    height: 56px;
+    color: #000;
+}
+
+.sensories {
+    position: absolute;
+    top: 0px;
+    left: 251px;
+    line-height: 64px;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 151px;
+    height: 56px;
+    color: #000;
+}
+.home-parent {
+    width: 402px;
+    position: relative;
+    height: 56px;
+}
+.sensory-archive-exploring {
+    width: 552px;
+    position: relative;
+    line-height: 64px;
+    white-space: pre-wrap;
+    display: inline-block;
+    height: 56px;
+    flex-shrink: 0;
+}
+.group-parent {
+    position: absolute;
+    top: 16px;
+    left: 60px;
+    width: 1626px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.about {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1117px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 24px;
+    color: #000;
+    font-family: Barlow;
+}
+

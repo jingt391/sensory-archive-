@@ -19,6 +19,34 @@
     cursor: pointer;
     color:black;
 }
+.teddy-1-icon {
+    position: absolute;
+    top: 120px;
+    left: 800px;
+    width: 500px;
+    height: 848px;
+    object-fit: cover;
+
+}
+.div2 {
+    width: 67px;
+    position: relative;
+    line-height: 64px;
+    display: inline-block;
+    height: 56px;
+    flex-shrink: 0;
+    transform:  rotate(180deg);
+    cursor: pointer;
+}
+.div3 {
+    width: 67px;
+    position: relative;
+    line-height: 64px;
+    display: inline-block;
+    height: 56px;
+    flex-shrink: 0;
+    cursor: pointer;
+}
 .parent {
     position: absolute;
     top: 501px;
@@ -28,16 +56,6 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    font-size: 100px;
-    font-family: Abel;
-}
-.icon {
-    position: absolute;
-    top: 10px;
-    left: 683px;
-    width: 833px;
-    height: 824px;
-    object-fit: cover;
 }
 .home {
     position: absolute;
@@ -75,6 +93,7 @@
     justify-content: center;
     width: 151px;
     height: 56px;
+    color:black;
 }
 .home-parent {
     width: 402px;
@@ -100,45 +119,47 @@
     align-items: center;
     justify-content: space-between;
     text-align: center;
+    font-size: 24px;
+    font-family: Barlow;
 }
 .location1 {
     margin: 0;
 }
 .location {
     position: absolute;
-    top: 232px;
-    left: 2px;
+    top: 196px;
+    left: 3px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
     width: 392px;
     height: 29px;
 }
-.graduating-from-high {
+.this-is-my {
     position: absolute;
-    top: 31px;
-    left: 1px;
+    top: 27px;
+    left: 2px;
     letter-spacing: -0.03em;
     line-height: 28px;
     text-align: left;
     display: inline-block;
     width: 387px;
-    height: 85px;
+    height: 75px;
 }
-.june-20th {
+.september-20th {
     position: absolute;
-    top: 185px;
-    left: 2px;
+    top: 148px;
+    left: 3px;
     letter-spacing: -0.03em;
-    line-height: 28px;
+    line-height: 30px;
     display: inline-block;
     width: 387px;
     height: 29px;
 }
 .time {
     position: absolute;
-    top: 159px;
-    left: 1px;
+    top: 123px;
+    left: 2px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
@@ -148,16 +169,16 @@
 .memory {
     position: absolute;
     top: 0px;
-    left: 1px;
+    left: 3px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
     width: 116px;
     height: 23px;
 }
-.there-were-a {
+.have-been-worn {
     position: absolute;
-    top: 27px;
+    top: 25px;
     left: 0px;
     letter-spacing: -0.03em;
     line-height: 28px;
@@ -168,7 +189,7 @@
 .more-info {
     position: absolute;
     top: 0px;
-    left: 2px;
+    left: 1px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
@@ -176,56 +197,59 @@
     width: 116px;
     height: 23px;
 }
-.there-were-a-few-tear-drop-mar-parent {
-    position: absolute;
-    top: 343px;
-    left: 0px;
-    width: 387px;
-    height: 83px;
-    text-align: left;
-}
-.in-a-sealed {
+.have-been-worn-out-so-muchi-parent {
     position: absolute;
     top: 260px;
-    left: 2px;
+    left: 3px;
+    width: 387px;
+    height: 81px;
+    text-align: left;
+}
+.old-apartment-in {
+    position: absolute;
+    top: 220px;
+    left: 4px;
     letter-spacing: -0.03em;
-    line-height: 28px;
+    line-height: 30px;
     text-align: left;
     display: inline-block;
     width: 387px;
     height: 128px;
 }
 .location-parent {
-    width: 394px;
+    width: 392px;
     position: relative;
-    height: 426px;
+    height: 348px;
 }
 .group-wrapper {
+    align-self: stretch;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
 }
-.grad-inner {
+.web-2-1-4-inner {
     position: absolute;
-    top: 110px;
-    left: 186px;
+    top: 125px;
+    left: 191px;
+    width: 392px;
     display: flex;
-    flex-direction: row;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
     justify-content: flex-start;
-    padding: 10px;
     text-align: justify;
+    font-size: 24px;
+    font-family: Barlow;
 }
-.grad {
+.web-2-1-4 {
     width: 100%;
     position: relative;
     background-color: #fff;
     height: 1117px;
     overflow: hidden;
     text-align: left;
-    font-size: 24px;
+    font-size: 100px;
     color: #000;
-    font-family: Barlow;
+    font-family: Abel;
 }
 

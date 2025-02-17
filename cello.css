@@ -31,14 +31,6 @@
     font-size: 100px;
     font-family: Abel;
 }
-.icon {
-    position: absolute;
-    top: 10px;
-    left: 683px;
-    width: 833px;
-    height: 824px;
-    object-fit: cover;
-}
 .home {
     position: absolute;
     top: 0px;
@@ -75,6 +67,7 @@
     justify-content: center;
     width: 151px;
     height: 56px;
+    color:black;
 }
 .home-parent {
     width: 402px;
@@ -106,7 +99,7 @@
 }
 .location {
     position: absolute;
-    top: 232px;
+    top: 258px;
     left: 2px;
     letter-spacing: -0.03em;
     line-height: 30px;
@@ -114,30 +107,30 @@
     width: 392px;
     height: 29px;
 }
-.graduating-from-high {
+.playing-cello-for {
     position: absolute;
-    top: 31px;
+    top: 29px;
     left: 1px;
     letter-spacing: -0.03em;
     line-height: 28px;
     text-align: left;
     display: inline-block;
     width: 387px;
-    height: 85px;
+    height: 132px;
 }
-.june-20th {
+.december-28th {
     position: absolute;
-    top: 185px;
-    left: 2px;
+    top: 218px;
+    left: 1px;
     letter-spacing: -0.03em;
-    line-height: 28px;
+    line-height: 18px;
     display: inline-block;
     width: 387px;
     height: 29px;
 }
 .time {
     position: absolute;
-    top: 159px;
+    top: 186px;
     left: 1px;
     letter-spacing: -0.03em;
     line-height: 30px;
@@ -148,17 +141,17 @@
 .memory {
     position: absolute;
     top: 0px;
-    left: 1px;
+    left: 0px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
     width: 116px;
     height: 23px;
 }
-.there-were-a {
+.remind-me-how {
     position: absolute;
-    top: 27px;
-    left: 0px;
+    top: 25px;
+    left: 1px;
     letter-spacing: -0.03em;
     line-height: 28px;
     display: inline-block;
@@ -168,7 +161,7 @@
 .more-info {
     position: absolute;
     top: 0px;
-    left: 2px;
+    left: 0px;
     letter-spacing: -0.03em;
     line-height: 30px;
     display: inline-block;
@@ -176,20 +169,21 @@
     width: 116px;
     height: 23px;
 }
-.there-were-a-few-tear-drop-mar-parent {
+.remind-me-how-to-tune-a-cello-parent {
     position: absolute;
-    top: 343px;
-    left: 0px;
-    width: 387px;
-    height: 83px;
+    top: 333px;
+    left: 1px;
+    width: 388px;
+    height: 81px;
     text-align: left;
 }
-.in-a-sealed {
+.in-my-apartment {
     position: absolute;
-    top: 260px;
+    top: 284px;
     left: 2px;
     letter-spacing: -0.03em;
-    line-height: 28px;
+    line-height: 30px;
+    white-space: pre-wrap;
     text-align: left;
     display: inline-block;
     width: 387px;
@@ -198,7 +192,7 @@
 .location-parent {
     width: 394px;
     position: relative;
-    height: 426px;
+    height: 414px;
 }
 .group-wrapper {
     display: flex;
@@ -206,10 +200,17 @@
     align-items: center;
     justify-content: flex-start;
 }
-.grad-inner {
+.frame-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.web-2-1-4-inner {
     position: absolute;
-    top: 110px;
-    left: 186px;
+    top: 105px;
+    left: 173px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -217,7 +218,29 @@
     padding: 10px;
     text-align: justify;
 }
-.grad {
+.cello-2-icon {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 928.2px;
+    flex-shrink: 0;
+    object-fit: contain;
+}
+.cello-2-wrapper {
+    position: absolute;
+    top: 100px;
+    left: 130px;
+    width: 1504px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+    transform: rotate(270deg);
+}
+.web-2-1-4 {
     width: 100%;
     position: relative;
     background-color: #fff;
